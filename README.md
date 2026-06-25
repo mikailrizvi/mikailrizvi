@@ -23,33 +23,42 @@
 
 ---
 
-## ⚡ What I'm Actively Working On
+Hey, I'm Mikail — a quant researcher and data scientist studying Statistics & Data Science (+ Advanced Mathematics) at UT Austin. I spend most of my time on systematic trading research, contagion modeling, and building backtesting infrastructure.
 
-- 🤝 Reaching out for quant research & data science opportunities.
-- 📈 Building systematic trading strategies and backtesting frameworks.
-- 🧮 Researching macroeconomic network fragility and tail-risk modeling.
-- 🏦 Senior Analyst @ QMI (managing a $60K portfolio) & Texas Trading Group.
+## ⚡ Highlights
+
+- 🔬 **Undergraduate Researcher @ UTD** — advised by Prof. Bilal Akin (ECE, IEEE Fellow). Spectral characterization of cross-asset contagion regimes in futures markets using graph neural networks and Laplacian early-warning signals.
+- 📊 **Senior Analyst @ QMI (University Securities Investment Team)** — 1 of 10 analysts selected from 150+ applicants; engineer Python trading models and statistical arbitrage algorithms for a $60K portfolio.
+- 📈 **Senior Analyst, TMT Sector @ Texas Trading Group** — run quantitative analysis and trade pitches on a simulated execution portfolio; publish a weekly markets newsletter for UT Austin students.
+- 🛠️ **Level 2 Technology Intern @ Liberty Mutual** — built a Python + FFmpeg automation tool that cut claim processing time by 40% and eliminated 100% of manual media handoffs.
+- 📉 **Data Outreach Intern @ Kolly.ai** — built a data-driven ranking system and regression analysis to prioritize 100+ creators and optimize ad-spend allocation.
 
 ---
 
 ## 🚀 Selected Projects
 
+- **[Algorithmic Futures Research Pipeline](https://github.com/mikailrizvi/REPO)**: NQ futures research pipeline — statistical signal discovery, walk-forward backtesting, and ML-ready feature engineering on 17 years of Nasdaq-100 E-mini 1-minute bars. Big-day mean-reversion strategy hit Sharpe +0.51 (95% CI excludes zero), with OOS Sharpe +0.81 > IS Sharpe +0.26, positive in 65% of walk-forward windows.
+  <br/>*Python · pandas · NumPy · SciPy · scikit-learn · PyArrow/Parquet · Matplotlib*
+
+- **[Cross-Asset Contagion Regime Classifier](https://github.com/mikailrizvi/REPO)**: Contagion regime classifier over 11 futures markets (2010–2026). Finds that network tightening (Δλ₂ = +0.330, p<0.001) precedes a characterizable subpopulation of contagion onsets. Spectral lead-in signal survives 2022 mega-block removal, 9.7σ above permutation null, robust across 3–20 day horizons.
+  <br/>*Python · PyTorch Geometric · PyG GAT · XGBoost · NumPy/Pandas · Matplotlib · LaTeX · Parquet*
+
+- **[Gold-Silver Mean-Reversion Framework](https://github.com/mikailrizvi/REPO)**: Vectorized pairs-trading engine using a rolling Z-Score mean-reversion algorithm; synchronized 1,500+ daily data points while neutralizing 99% of non-physical outliers. NumPy vectorization cut backtest overhead by 85%.
+  <br/>*Python · Pandas · NumPy*
+
 - **[Macroeconomic Network Fragility Model](https://github.com/mikailrizvi/REPO)**: SOXX overlay strategy built from macro fragility research — captured a 68.6% crash return on a 2020 out-of-sample backtest. Selected as 1 of 2 UT Austin teams for the Southeastern Hedge Fund Conference.
-- **[Stochastic Monte Carlo Pricing Engine](https://github.com/mikailrizvi/REPO)**: Girsanov-based Importance Sampling model for rare events — 35.5x variance reduction vs. Naive Monte Carlo, validated to <0.1% error against Black-Scholes.
-- **[Gold-Silver Mean-Reversion Framework](https://github.com/mikailrizvi/REPO)**: Vectorized pairs-trading engine using a rolling Z-Score algorithm; NumPy vectorization cut backtest overhead by 85%.
-- **[Seasonal Momentum Trading Engine](https://github.com/mikailrizvi/REPO)**: Python backtest engine on NASDAQ data — 347% return vs. 170% benchmark over a 6-year simulation, with a 10bps transaction cost model.
-- **[Ficard](https://github.com/mikailrizvi/REPO)**: Quant finance prep platform in React — 40+ modules, an in-browser Python IDE, mental math engine, and a recruiting pipeline dashboard.
+  <br/>*Python · Pandas · NumPy*
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,sql,postgres,flask,git,vscode,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,sql,pytorch,sklearn,postgres,flask,git,vscode,github,latex&theme=dark" />
 </p>
 
 <p align="center">
-  <b>Libraries & Tools:</b> Pandas · NumPy · Matplotlib · Seaborn · Excel
+  <b>Libraries & Tools:</b> Pandas · NumPy · SciPy · scikit-learn · PyTorch Geometric · XGBoost · Matplotlib · Seaborn · PyArrow/Parquet
 </p>
 
 ---
