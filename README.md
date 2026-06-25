@@ -27,7 +27,7 @@ Hey, I'm Mikail — an aspiring quant researcher and data scientist studying Sta
 
 ## ⚡ Highlights
 
-- 🔬 **Undergraduate Researcher @ UTD** — advised by Prof. Bilal Akin (ECE, IEEE Fellow). Spectral characterization of cross-asset contagion regimes in futures markets using graph neural networks and Laplacian early-warning signals.
+- 🔬 **Undergraduate Researcher @ UTD** — Spectral characterization of cross-asset contagion regimes in futures markets using graph neural networks and Laplacian early-warning signals.
 - 📊 **Senior Analyst @ QMI (University Securities Investment Team)** — 1 of 10 analysts selected from 150+ applicants; engineer Python trading models and statistical arbitrage algorithms for a $60K portfolio.
 - 📈 **Senior Analyst, TMT Sector @ Texas Trading Group** — run quantitative analysis and trade pitches on a simulated execution portfolio; publish a weekly markets newsletter for UT Austin students.
 - 🛠️ **Level 2 Technology Intern @ Liberty Mutual** — built a Python + FFmpeg automation tool that cut claim processing time by 40% and eliminated 100% of manual media handoffs.
