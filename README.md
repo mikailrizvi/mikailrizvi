@@ -23,7 +23,7 @@
 
 ---
 
-Hey, I'm Mikail — a quant researcher and data scientist studying Statistics & Data Science (+ Advanced Mathematics) at UT Austin. I spend most of my time on systematic trading research, contagion modeling, and building backtesting infrastructure.
+Hey, I'm Mikail — an aspiring quant researcher and data scientist studying Statistics & Data Science (+ Advanced Mathematics) at UT Austin.
 
 ## ⚡ Highlights
 
