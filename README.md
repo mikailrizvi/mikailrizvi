@@ -5,19 +5,19 @@
 </p>
 
 <p align="center">
-  Quantitative Finance • Data Science and Mathematics • Open to Internships
+  Quantitative Finance • Data Science • Mathematics • Open to Internships
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mikailrizvi&label=Profile%20Views&color=8B0000&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mikailrizvi&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mikailrizvi">
-    <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mikail@utexas.edu">
-    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -53,44 +53,12 @@ Hey, I'm Mikail — an aspiring quant researcher and data scientist studying Sta
 
 ## 🛠️ Tech Stack
 
-#### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/R-1a1a1a?style=for-the-badge&logo=r&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/LaTeX-1a1a1a?style=for-the-badge&logo=latex&logoColor=8B0000" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,java,sql,pytorch,sklearn,postgres,flask,git,vscode,github,latex&theme=dark" />
 </p>
 
-#### Data Science & ML
-<p>
-  <img src="https://img.shields.io/badge/pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/NumPy-1a1a1a?style=for-the-badge&logo=numpy&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/SciPy-1a1a1a?style=for-the-badge&logo=scipy&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/scikit--learn-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/PyTorch_Geometric-1a1a1a?style=for-the-badge&logo=pytorch&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/XGBoost-1a1a1a?style=for-the-badge&logo=xgboost&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/Matplotlib-1a1a1a?style=for-the-badge&logo=python&logoColor=8B0000" />
-</p>
-
-#### Quant & Financial Modeling
-<p>
-  <img src="https://img.shields.io/badge/Monte_Carlo_Simulation-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mean_Reversion-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pairs_Trading-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Walk--Forward_Backtesting-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistical_Arbitrage-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Options_Pricing-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Time_Series_Analysis-8B0000?style=for-the-badge&logoColor=white" />
-</p>
-
-#### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/Flask-1a1a1a?style=for-the-badge&logo=flask&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/Parquet-1a1a1a?style=for-the-badge&logo=apachearrow&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=8B0000" />
+<p align="center">
+  <b>Libraries & Tools:</b> Pandas · NumPy · SciPy · scikit-learn · PyTorch Geometric · XGBoost · Matplotlib · Seaborn · PyArrow/Parquet
 </p>
 
 ---
@@ -98,10 +66,6 @@ Hey, I'm Mikail — an aspiring quant researcher and data scientist studying Sta
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikailrizvi&show_icons=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d0d0d" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikailrizvi&layout=compact&hide_border=true&title_color=8B0000&text_color=ffffff&bg_color=0d0d0d" alt="top langs" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikailrizvi&hide_border=true&background=0d0d0d&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mikailrizvi&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikailrizvi&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165" />
 </p>
