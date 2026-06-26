@@ -71,5 +71,8 @@ Hey, I'm Mikail — studying Statistics & Data Science (+ Advanced Mathematics) 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikailrizvi&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikailrizvi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8" alt="top langs" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikailrizvi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
 </p>
