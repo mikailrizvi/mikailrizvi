@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Quantitative Researcher • Data Scientist • Open to Internships
+  Quantitative Finance • Data Science and Mathematics • Open to Internships
 </p>
 
 <p align="center">
