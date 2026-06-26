@@ -61,11 +61,15 @@ Hey, I'm Mikail — an aspiring quant researcher and data scientist studying Sta
   <b>Libraries & Tools:</b> Pandas · NumPy · SciPy · scikit-learn · PyTorch Geometric · XGBoost · Matplotlib · Seaborn · PyArrow/Parquet
 </p>
 
+<p align="center">
+  <b>Financial Concepts:</b> Statistical Arbitrage · Mean Reversion · Pairs Trading · Walk-Forward Backtesting · Monte Carlo Simulation · Time Series Analysis · Risk Modeling
+</p>
+
 ---
 
 ## 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikailrizvi&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikailrizvi&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikailrizvi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8" alt="top langs" height="165" />
 </p>
