@@ -23,30 +23,30 @@
 
 ---
 
-Hey, I'm Mikail — an aspiring quant researcher and data scientist studying Statistics & Data Science (+ Advanced Mathematics) at UT Austin.
+Hey, I'm Mikail — studying Statistics & Data Science (+ Advanced Mathematics) at UT Austin. Mostly into quant research and systematic trading.
 
 ## Highlights
 
-- **Undergraduate Researcher @ UTD** — Spectral characterization of cross-asset contagion regimes in futures markets using graph neural networks and Laplacian early-warning signals.
-- **Senior Analyst @ QMI (University Securities Investment Team)** — 1 of 10 analysts selected from 150+ applicants; engineer Python trading models and statistical arbitrage algorithms for a $60K portfolio.
-- **Senior Analyst, TMT Sector @ Texas Trading Group** — run quantitative analysis and trade pitches on a simulated execution portfolio; publish a weekly markets newsletter for UT Austin students.
-- **Level 2 Technology Intern @ Liberty Mutual** — built a Python + FFmpeg automation tool that cut claim processing time by 40% and eliminated 100% of manual media handoffs.
-- **Data Outreach Intern @ Kolly.ai** — built a data-driven ranking system and regression analysis to prioritize 100+ creators and optimize ad-spend allocation.
+- **Undergraduate Researcher @ UTD** — researching cross-asset contagion in futures markets using graph neural networks and spectral early-warning signals.
+- **Senior Analyst @ QMI** — 1 of 10 analysts (from 150+ applicants) building Python trading models for a $60K portfolio.
+- **Senior Analyst, TMT @ Texas Trading Group** — quant analysis and trade pitches; write a weekly markets newsletter for UT students.
+- **Tech Intern @ Liberty Mutual** — built a Python/FFmpeg tool that automated claim media processing and cut manual handoffs.
+- **Data Intern @ Kolly.ai** — built a ranking system to prioritize 100+ creators and reallocate ad spend.
 
 ---
 
 ## Selected Projects
 
-- **[Algorithmic Futures Research Pipeline](https://github.com/mikailrizvi/REPO)**: NQ futures research pipeline — statistical signal discovery, walk-forward backtesting, and ML-ready feature engineering on 17 years of Nasdaq-100 E-mini 1-minute bars. Big-day mean-reversion strategy hit Sharpe +0.51 (95% CI excludes zero), with OOS Sharpe +0.81 > IS Sharpe +0.26, positive in 65% of walk-forward windows.
-  <br/>*Python · pandas · NumPy · SciPy · scikit-learn · PyArrow/Parquet · Matplotlib*
+- **[Algorithmic Futures Research Pipeline](https://github.com/mikailrizvi/REPO)** — signal discovery and walk-forward backtesting on 17 years of Nasdaq-100 E-mini data. Mean-reversion strategy held up out-of-sample (Sharpe +0.81 OOS vs. +0.26 IS).
+  <br/>*Python · pandas · NumPy · SciPy · scikit-learn · Parquet*
 
-- **[Cross-Asset Contagion Regime Classifier](https://github.com/mikailrizvi/REPO)**: Contagion regime classifier over 11 futures markets (2010–2026). Finds that network tightening (Δλ₂ = +0.330, p<0.001) precedes a characterizable subpopulation of contagion onsets. Spectral lead-in signal survives 2022 mega-block removal, 9.7σ above permutation null, robust across 3–20 day horizons.
-  <br/>*Python · PyTorch Geometric · PyG GAT · XGBoost · NumPy/Pandas · Matplotlib · LaTeX · Parquet*
+- **[Cross-Asset Contagion Regime Classifier](https://github.com/mikailrizvi/REPO)** — classifies contagion regimes across 11 futures markets and tests whether network tightening leads contagion onsets. (UTD research)
+  <br/>*Python · PyTorch Geometric · XGBoost · NumPy/Pandas*
 
-- **[Gold-Silver Mean-Reversion Framework](https://github.com/mikailrizvi/REPO)**: Vectorized pairs-trading engine using a rolling Z-Score mean-reversion algorithm; synchronized 1,500+ daily data points while neutralizing 99% of non-physical outliers. NumPy vectorization cut backtest overhead by 85%.
+- **[Gold-Silver Mean-Reversion Framework](https://github.com/mikailrizvi/REPO)** — vectorized pairs-trading engine using a rolling Z-Score signal, with outlier cleaning and a fast NumPy backtest.
   <br/>*Python · Pandas · NumPy*
 
-- **[Macroeconomic Network Fragility Model](https://github.com/mikailrizvi/REPO)**: SOXX overlay strategy built from macro fragility research — captured a 68.6% crash return on a 2020 out-of-sample backtest. Selected as 1 of 2 UT Austin teams for the Southeastern Hedge Fund Conference.
+- **[Macroeconomic Network Fragility Model](https://github.com/mikailrizvi/REPO)** — SOXX overlay that scales tail hedges off macro fragility signals. One of 2 UT Austin teams selected for the Southeastern Hedge Fund Conference.
   <br/>*Python · Pandas · NumPy*
 
 ---
