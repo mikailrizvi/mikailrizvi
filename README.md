@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Mikail Rizvi 👋</h1>
+<h1 align="center">Hi, I'm Mikail Rizvi</h1>
 
 <p align="center">
-  <b>Statistics & Data Science + Advanced Mathematics @ The University of Texas at Austin 🤘</b>
+  <b>Statistics & Data Science + Advanced Mathematics @ The University of Texas at Austin</b>
 </p>
 
 <p align="center">
