@@ -27,7 +27,7 @@ Hey, I'm Mikail — studying Statistics & Data Science (+ Advanced Mathematics) 
 
 ## Highlights
 
-- **Undergraduate Researcher @ UTD** — researching cross-asset contagion in futures markets using graph neural networks and spectral early-warning signals.
+- **Undergraduate Researcher @ GMU** — researching cross-asset contagion in futures markets using graph neural networks and spectral early-warning signals.
 - **Senior Analyst @ QMI** — 1 of 10 analysts (from 150+ applicants) building Python trading models for a $60K portfolio.
 - **Senior Analyst, TMT @ Texas Trading Group** — quant analysis and trade pitches; write a weekly markets newsletter for UT students.
 - **Tech Intern @ Liberty Mutual** — built a Python/FFmpeg tool that automated claim media processing and cut manual handoffs.
